@@ -6,7 +6,6 @@
             <td width="30%" valign="top" style="border: none; ">
                 <br><a href="https://www.magezon.com/magento-2-email-builder-extension.html"><img src="https://www.magezon.com/pub/media/catalog/product/cache/c56f5c50a53ae6d445bac4bece78644e/1/_/1.jpg"/></a>
             </td>
-
             <td style="border:none;"></br>
                 <div class="product attribute overview">
                     <div class="valune">
