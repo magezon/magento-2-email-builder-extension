@@ -18,7 +18,7 @@
                         <li><a href="#create-a-dynamic-email-menu"><span style="font-weight: 400;">Create a dynamic email menu</span></a></li>
                         <li><a href="#create-responsive-design-templates">Create responsive design templates</a></li>
                         <li><a href="#other-stunning-features">Other stunning features</a></li>
-                        <li><a href="#amazing-aftersales-support-&amp;-tutorials">Amazing aftersales support &amp; tutorials</a></li>
+                        <li><a href="#amazing-aftersales-support-&-tutorials">Amazing aftersales support & tutorials</a></li>
                     </ul>
                 </div>
             </div>
@@ -48,7 +48,7 @@
         </tr>
         <tr>
             <td colspan="12" width="100%" align="center">
-                <h2>Intuitive <b>Drag And Drop</b> Email Builder</h2>
+                <h2 id="intuitive-drag-and-drop-email-builder">Intuitive <b>Drag And Drop</b> Email Builder</h2>
             </td>
         </tr>
         <tr>
@@ -62,7 +62,7 @@
         </tr>
         <tr>
             <td colspan="12" width="100%" align="center">
-                <h2><b>13 Elements</b> Supported</h2>
+                <h2 id="13-elements-supported"><b>13 Elements</b> Supported</h2>
             </td>
         </tr>
         <tr>
@@ -73,7 +73,7 @@
         </tr>
         <tr>
             <td colspan="12" align="center">
-                <h2>Expand Your <b>Online Presence</b></h2>
+                <h2 id="expand-your-online-presence">Expand Your <b>Online Presence</b></h2>
             </td>
         </tr>
         <tr>
@@ -88,7 +88,7 @@
         </tr>
         <tr>
             <td colspan="12" align="center">
-                <h2>10+ <b>Pre-built Templates</b></h2>
+                <h2 id="10+-stunning-pre-built-templates">10+ <b>Pre-built Templates</b></h2>
             </td>
         </tr>
         <tr>
@@ -105,14 +105,14 @@
                 <img src="https://www.magezon.com/pub/media/Email-builder/template_2-1.png" title="Front-end"/>
             </td>
             <td colspan="6">
-                <h2>Live Preview Mode</h2>
+                <h2 id="live-preview-mode">Live Preview Mode</h2>
                 <p>Curious about how your email templates look like right from the back-end? With the help of the email editor, there is no boundary between what you preview and what your customers actually receive.</p>
                 <p>The live preview function gives you full control to manage your Magento 2 email template looks which saves you a ton of time. </p>
             </td>
         </tr>
         <tr>
             <td colspan="6" width="50%">
-                <h2>Create A Dynamic Email Menu</h2>
+                <h2 id="create-a-dynamic-email-menu">Create A Dynamic Email Menu</h2>
                 <p>Creating your Magento 2 email template in no time with our available dynamic email menu that enables you to display horizontal menus. Show your desired pages on the menu so that your customers can navigate to them by just clicking.</p>
             </td>
             <td colspan="6">
@@ -121,7 +121,7 @@
         </tr>
         <tr>
             <td colspan="12" align="center">
-                <h2> Create Responsive Design Templates</h2>
+                <h2 id="create-responsive-design-templates"> Create Responsive Design Templates</h2>
             </td>
         </tr>
         <tr>
@@ -149,7 +149,7 @@
         </tr>
         <tr>
             <td colspan="12" align="center">
-                <h2>Other Stunning Features</h2>
+                <h2 id="other-stunning-features">Other Stunning Features</h2>
             </td>
         </tr>
         <tr>
@@ -197,7 +197,7 @@
         </tr>
         <tr>
             <td colspan="12" align="center">
-                <h1>Amazing Aftersales Support & Tutorials</h1>
+                <h1 id="amazing-aftersales-support-&-tutorials">Amazing Aftersales Support & Tutorials</h1>
             </td>
         </tr>
         <tr>
