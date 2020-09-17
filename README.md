@@ -135,7 +135,7 @@
                     </tr>
                     <tr>
                         <td colspan="5" align="center">
-                            <img class="mgz-hover-main" src="https://www.magezon.com/pub/media/Email-builder/desktop-responsive.png" width="250px" alt="desktop viewport" title="">
+                            <img class="mgz-hover-main" src="https://www.magezon.com/pub/media/Email-builder/desktop-responsive.png" width="200px" alt="desktop viewport" title="">
                         </td>
                         <td colspan="4" align="center">
                             <img class="mgz-hover-main" src="https://www.magezon.com/pub/media/Email-builder/tablet-responsive.png" width="50%" alt="tablet viewport" title="">
